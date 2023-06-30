@@ -27,7 +27,6 @@
 #navbar ul{
     display: flex;
     flex-direction: row;
-    /* justify-content: center; */
     align-items: center;
 }
 
@@ -69,6 +68,7 @@
     height: 330px;
     width: 67%;
     margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #missionSection h2{
@@ -119,6 +119,7 @@
 #sponsorSection{
     height: 300px;
     background-color: #dc5d5d;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 #sponsorSection h2{
